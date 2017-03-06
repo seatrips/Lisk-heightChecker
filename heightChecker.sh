@@ -18,41 +18,25 @@
 ## Mainnet ##
 nodesMainnet=(
   # Examples. Use whatever you want to monitor
-  https://my.node1.com
-  http://my.node3.com:8000
+  http://wallet.shiftnrg.nl:9305
+  http://wallet2.shiftnrg.nl:9305
+  http://wallet3.shiftnrg.nl:9305
   "-" # Used only for optical separation
-  https://login.lisk.io
-  http://01.lskwallet.space:8000
-  http://lisk.liskwallet.io:8000
-  http://lisk.fastwallet.online:8000
+  http://explorernode.shiftnrg.nl:9305
+  http://explorernode2.shiftnrg.nl:9305
   "-"
-  http://40.68.214.86:8000
-  http://13.70.207.248:8000
-  http://13.89.42.130:8000
-  http://52.160.98.183:8000
-  http://40.121.84.254:8000
-  http://40.69.40.11:8000
-  http://51.140.181.131:8000
-  http://52.187.55.110:8000
-  http://191.234.176.37:8000
-  http://13.73.116.99:8000
+  http://seatrips.shiftnrg.nl:9305
+  http://seatrips2.shiftnrg.nl:9305
+  http://seatrips3.shiftnrg.nl:9305
 )
-
+## Mainnet ##
+community=(
+  http://shiftcommunitywallet.shiftnrg.nl:9305
+  )
 ## Testnet ##
 nodesTestnet=(
-  http://234.234.234.234:7000
-  https://other.node.io
-  "-"
-  http://testnet.lisk.io:7000
-  http://testnet-explorer.lisknode.io:7000
-  http://test-pri.lskwallet.space:7000
-  https://lisk.testwallet.online
-  "-"
-  http://13.69.159.242:7000
-  http://40.68.34.176:7000
-  http://52.165.40.188:7000
-  http://13.82.31.30:7000
-  http://13.91.61.2:7000
+  http://seatripstestnet.shiftnrg.nl:9405
+  http://seatripstestnet2.shiftnrg.nl:9405
 )
 
 # used for coloring the heights
