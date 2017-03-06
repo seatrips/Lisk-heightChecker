@@ -28,9 +28,7 @@ nodesMainnet=(
   http://seatrips.shiftnrg.nl:9305
   http://seatrips2.shiftnrg.nl:9305
   http://seatrips3.shiftnrg.nl:9305
-)
-## Mainnet ##
-community=(
+  "-"
   http://shiftcommunitywallet.shiftnrg.nl:9305
   )
 ## Testnet ##
