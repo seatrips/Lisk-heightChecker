@@ -5,7 +5,7 @@ Nice and clear colored presentation!
 Checking all the nodes needs some time, especially if not all nodes are reachable.
 The scrips will maybe need some seconds to show the results, please be patient.
 
-## needed
+## Needed
 sudo apt-get install jq
 
 ## Installation and Configuration
