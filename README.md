@@ -5,6 +5,9 @@ Nice and clear colored presentation!
 Checking all the nodes needs some time, especially if not all nodes are reachable.
 The scrips will maybe need some seconds to show the results, please be patient.
 
+## needed
+sudo apt-get install jq
+
 ## Installation and Configuration
 1. Clone the repo with 'git clone https://github.com/simonmorgenthaler/Lisk-heightChecker.git'
 2. Go into the directory with 'cd Lisk-heightChecker'
