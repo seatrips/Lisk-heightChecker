@@ -22,8 +22,8 @@ nodesMainnet=(
   http://wallet2.shiftnrg.nl:9305
   http://wallet3.shiftnrg.nl:9305
   "-" # Used only for optical separation
-  http://explorernode.shiftnrg.nl:9305
-  http://explorernode2.shiftnrg.nl:9305
+  http://shiftexplorernode1.shiftnrg.nl:9305
+  http://shiftexplorernode2.shiftnrg.nl:9305
   "-"
   http://seatrips.shiftnrg.nl:9305
   http://seatrips2.shiftnrg.nl:9305
