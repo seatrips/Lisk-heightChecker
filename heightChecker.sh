@@ -9,8 +9,8 @@
 # nodes you want to monitor. Add your own nodes as you wish.                                                       #
 # The Color shows if the height and version is uptodate.                                                           #
 #                                                                                                                  #
-# Script provided by delegate cc001 6787154358850114730L 
-# Some edits by shift delegate seatrips
+# Script provided by delegate cc001 6787154358850114730L                                                           #
+# Some edits by shift delegate seatrips                                                                            #
 # If you like this script, please vote for me as Delegate, Thanks!                                                 #
 #                                                                                                                  #
 ####################################################################################################################
@@ -19,22 +19,21 @@
 ## Mainnet ##
 nodesMainnet=(
   # Examples. Use whatever you want to monitor
-  http://wallet.shiftnrg.nl:9305
-  http://wallet2.shiftnrg.nl:9305
+  http://yourdomain or ip:9305
+  http://yourdomain or ip:9305
   "-" # Used only for optical separation
-  http://shiftexplorernode1.shiftnrg.nl:9305
-  http://shiftexplorernode2.shiftnrg.nl:9305
+  http://yourdomain or ip:9305
+  http://yourdomain or ip:9305
   "-"
-  http://seatrips.shiftnrg.nl:9305
-  http://seatrips2.shiftnrg.nl:9305
-  http://seatrips3.shiftnrg.nl:9305
+  http://yourdomain or ip:9305
+  http://yourdomain or ip:9305
   "-"
   http://shiftcommunitywallet.shiftnrg.nl:9305
   )
 ## Testnet ##
 nodesTestnet=(
-  http://seatripstestnet.shiftnrg.nl:9405
-  http://seatripstestnet2.shiftnrg.nl:9405
+  http://yourtestnetdomain or ip:9405
+  http://yourtestnetdomain or ip:9405
 )
 
 # used for coloring the heights
